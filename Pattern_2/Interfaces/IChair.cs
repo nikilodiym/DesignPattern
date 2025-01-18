@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Pattern_2.Interfaces
 {
-    internal interface IChair
+    public interface IChair
     {
+        string GetDescription();
     }
 }

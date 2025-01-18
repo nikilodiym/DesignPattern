@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pattern_2.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Pattern_2.Products.Modern
 {
-    internal class ModernCoffeeTable
+    public class ModernCoffeeTable : ICoffeeTable
     {
+        public string GetDescription() => "Modern style coffee table";
     }
 }

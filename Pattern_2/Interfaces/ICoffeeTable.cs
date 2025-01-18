@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Pattern_2.Interfaces
 {
-    internal interface ICoffeeTable
+    public interface ICoffeeTable
     {
+        string GetDescription();
     }
 }
