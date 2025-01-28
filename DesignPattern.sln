@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{6B74B4D4-5601-4388-9688-48C8008A93A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{6B74B4D4-5601-4388-9688-48C8008A93A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{D6D91607-7159-4FC4-8F3E-674FC545DC59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{D6D91607-7159-4FC4-8F3E-674FC545DC59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_1", "Pattern1\Pattern_1.csproj", "{3DE8B525-E166-4040-8ED0-49C8A81661DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_1", "Pattern1\Pattern_1.csproj", "{3DE8B525-E166-4040-8ED0-49C8A81661DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_2", "Pattern_2\Pattern_2.csproj", "{99AF05B9-3D58-4C05-A393-110EE86E98F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_2", "Pattern_2\Pattern_2.csproj", "{99AF05B9-3D58-4C05-A393-110EE86E98F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_3", "Pattern_3\Pattern_3.csproj", "{966200F7-C352-457D-9BC3-ADB62A22ACFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_3", "Pattern_3\Pattern_3.csproj", "{966200F7-C352-457D-9BC3-ADB62A22ACFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_4", "Pattern4\Pattern_4.csproj", "{BEB58378-6CE2-4E54-9791-A730BA2A78F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{966200F7-C352-457D-9BC3-ADB62A22ACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{966200F7-C352-457D-9BC3-ADB62A22ACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{966200F7-C352-457D-9BC3-ADB62A22ACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB58378-6CE2-4E54-9791-A730BA2A78F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB58378-6CE2-4E54-9791-A730BA2A78F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB58378-6CE2-4E54-9791-A730BA2A78F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB58378-6CE2-4E54-9791-A730BA2A78F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
