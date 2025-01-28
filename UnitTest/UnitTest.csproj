@@ -22,6 +22,7 @@
     <ProjectReference Include="..\Pattern4\Pattern_4.csproj" />
     <ProjectReference Include="..\Pattern_2\Pattern_2.csproj" />
     <ProjectReference Include="..\Pattern_3\Pattern_3.csproj" />
+    <ProjectReference Include="..\Pattern_5\Pattern_5.csproj" />
   </ItemGroup>
 
   <ItemGroup>
